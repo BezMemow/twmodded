@@ -426,8 +426,8 @@ MAN = {
 	color_ui = rgb { 255 120 71 }
 }
 XSM = {
-	color = rgb { 174 183 11 }
-	color_ui = rgb { 174 183 11 }
+	color = rgb { 105 90 132 }
+	color_ui = rgb { 105 90 132 }
 }
 ANG = {
 	color = rgb { 37 140 61 }
