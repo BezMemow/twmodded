@@ -1,0 +1,171 @@
+ai_historical_focus_list_ITA = {
+	ai_national_focuses = {
+		ITA_armi_chimiche
+		ITA_regia_marina
+		ITA_ethiopian_war_logistics
+		ITA_victoryinETH
+		ITA_support_nationalist_spain
+		ITA_asse_roma_berlino
+		ITA_Regia_Aeronautica
+		ITA_Fiat_cr42
+		ITA_syndicalism
+		ITA_iri		
+        ITA_interventionsist
+		ITA_spanish_italian_faction
+		ITA_Regio_Esercito
+		ITA_Hitler_visits_Rome
+		ITA_Minculpop
+		ITA_Istituto_LUCE	
+		ITA_The_industrial_triangle 
+        ITA_military_focus
+		ITA_cinecitta
+		ITA_modernisation_attempt
+		ITA_cavagnari_plan
+		ITA_nemo
+		ITA_albania_war_goal
+		ITA_pact_of_steel
+		ITA_join_the_axis
+		ITA_claims_on_france 
+		ITA_greece_war_goal
+		ITA_yugoslavia_war_goal
+		ITA_6_Million_Bayonets	
+        ITA_Pursue_oil_autarchy
+		ITA_gentile_reform
+		ITA_bonifica			
+		ITA_Increase_factory_output
+		ITA_stazione_radiofonica_di_bologna 		
+		
+		ITA_fanteria
+		ITA_Convert_WW1_Weapons_and_equipment
+		ITA_navi_moderne
+		ITA_ports_lybia
+		ITA_Armor_Effort
+		ITA_expand_the_industries
+		ITA_italian_highways		
+		ITA_Expand_Northern_Italy_weapons_manifactures
+		ITA_squadre_di_supporto
+		ITA_libyan_infrastructure
+		ITA_Lybian_oil_fields
+		ITA_Modern_naval_bomber_effort
+		ITA_Fiat_g50_Freccia	
+		ITA_Increase_research_founding	
+		ITA_Alpini	
+			
+		ITA_marconi		
+		ITA_guidonia
+		ITA_aeroporti
+		ITA_beretta
+		ITA_rome_was_not_build_in_a_day
+		ITA_learn_from_the_ethiopian_war				
+		ITA_The_Old_guard						
+		ITA_AVANTI
+		ITA_Legacy_of_the_Arditi
+		ITA_modernisation_attempt				
+		ITA_innovazione
+		ITA_anti_air		
+		ITA_Navy_Airforce_Coordination	
+		ITA_Escape_the_cage							 
+		ITA_Learn_from_the_Luftwaffe
+		ITA_Picchiatello
+		ITA_Dockyards_effort
+		ITA_Prioritise_naval_industry
+	}
+}
+
+ai_focus_defense_POR = {
+	research = {
+		radar_tech = 0.25
+		construction_tech = 2.0
+		artillery = 2.0
+	}
+}
+
+ai_focus_aggressive_POR = {
+	research = {
+		synth_resources = 1.0
+		motorized_tech = 2.0
+		armor = 2.0
+	}
+}
+
+ai_focus_war_production_POR = {
+	research = {
+		industry = 20.0
+		construction_tech = 2.0
+		electronics = 2.0
+		computing_tech = 2.0
+	}
+}
+
+ai_focus_military_equipment_POR = {
+	research = {
+		infantry_weapons = 50.0
+		infantry_tech = 15.0
+		artillery = 8.0
+		support_tech = 6.5
+	}
+}
+
+ai_focus_military_advancements_POR = {
+	research = {
+		armor = 15.0
+		jet_technology = 5.0
+		land_doctrine = 100.0
+		rocketry = 7.5
+		radar_tech = 3.0
+		encryption_tech = 7.5
+		decryption_tech = 7.5
+		synth_resources = 3.0
+		motorized_tech = 4.0
+		nuclear = 5.0
+		night_vision = 5.0
+	}
+}
+
+
+ai_focus_peaceful_POR = {
+	research = {
+		industry = 15.0
+		construction_tech = 5.0
+		electronics = 10.0
+		computing_tech = 10.0
+	}
+}
+
+ai_focus_naval_POR = {
+    research = {
+        naval_equipment = 10.0
+        naval_doctrine = 100.0
+        marine_tech = 15.0
+        dd_tech = 8.0
+        cl_tech = 8.0
+        ca_tech = 8.0
+        bc_tech = 10.0
+        bb_tech = 2.0
+        shbb_tech = 1.0
+        tp_tech = 8.0
+        cv_tech = 2.0
+        ss_tech = 85.0
+    }
+}
+
+ai_focus_naval_air_POR = {
+	research = {
+		naval_air = 4.0
+		naval_bomber = 3.0
+	}
+}
+
+ai_focus_aviation_POR = {
+	research = {
+		air_doctrine = 15.0
+		light_air = 4.0
+		light_fighter = 10.0
+		jet_technology = 1.0
+		cas_bomber = 10.0		
+		medium_air = 2.0
+		tactical_bomber = 2.0
+		heavy_air = 1.5
+		air_equipment = 5.0
+	}
+}
