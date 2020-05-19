@@ -460,7 +460,6 @@ focus_tree = {
 		id = POL_defensive_focus
 		icon = GFX_goal_POL_defense
 		prerequisite = { focus = POL_strengthen_the_polish_state }
-		prerequisite = { focus = POL_the_four_year_plan }
 		relative_position_id = POL_strengthen_the_polish_state
 		x = 2
 		y = 1
@@ -3293,7 +3292,6 @@ focus_tree = {
 		id = POL_militarism2
 		icon = GFX_goal_POL_legacy
 		prerequisite = { focus = POL_strengthen_the_polish_state }
-		prerequisite = { focus = POL_the_four_year_plan }
 		relative_position_id = POL_strengthen_the_polish_state
 		x = -3
 		y = 1
